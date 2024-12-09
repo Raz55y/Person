@@ -1,0 +1,11 @@
+新增Person類別
+debug
+.h檔案與.cpp檔案
+新增衍生自Person的Student類別
+類別的繼承觀念
+README.md說明文件
+Course類別
+繼承自Person的Teacher類別
+vector容器儲存物件
+rename
+程式碼重構(refactoring)
