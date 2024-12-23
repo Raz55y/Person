@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp">
+    <ClCompile Include="CourseApp.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
     <ClCompile Include="Person.cpp">
@@ -31,6 +31,9 @@
       <Filter>來源檔案</Filter>
     </ClCompile>
     <ClCompile Include="Course.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Record.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,7 +53,10 @@
     <ClInclude Include="Course.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
-    <ClInclude Include="ConsoleApplication1.h">
+    <ClInclude Include="CourseApp.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Record.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
