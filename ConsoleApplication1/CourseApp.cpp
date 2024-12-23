@@ -5,7 +5,7 @@
 #include "Teacher.h"
 #include "Course.h"
 #include "Utility.h"
-#include "ConsoleApplication1.h"
+#include "CourseApp.h"
 using namespace std;
 
 int main()
